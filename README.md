@@ -37,4 +37,7 @@ Connect with me:
 - [Cisco](https://leetcode.com/Cisco-the-wayword/)![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 - [Boluwatife](https://www.linkedin.com/in/boluwatife-adegboyega-9397a81b3/)![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-     
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Cisco-the-wayword)](https://github.com/Cisco-the-wayword)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cisco-the-wayword&layout=compact)](https://github.com/Cisco-the-wayword)
