@@ -26,7 +26,10 @@ Tools and Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 IDEs
-Jupyter Notebook  PyCharm  Visual Studio Code  
+- Jupyter Notebook  
+- PyCharm  
+- Visual Studio Code  
+- Visual Studio
 
 Connect with me:
 - [dexterhack800@gmail.com]![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
