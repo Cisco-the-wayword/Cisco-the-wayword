@@ -2,7 +2,7 @@
 
 
 Hi there, I'm Cisco 👋
-I am a fifth year Computer Engineering B.Sc candidate at Bells University of Technology, Nigeria. Apart from that I am developer learning with Microverse sith love for programming and footballfootball. You can check out [my website](https://cisco-the-wayword.github.io/Personal-site/) for more
+I am a fifth year Computer Engineering B.Sc candidate at Bells University of Technology, Nigeria. Apart from that I am developer learning with Microverse with love for programming and footballfootball. You can check out [my website](https://cisco-the-wayword.github.io/Personal-site/) for more.
 
 My Reseach Interest:
 
@@ -41,3 +41,6 @@ Connect with me:
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Cisco-the-wayword)](https://github.com/Cisco-the-wayword)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cisco-the-wayword&layout=compact)](https://github.com/Cisco-the-wayword)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cisco-the-wayword)
