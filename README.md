@@ -38,7 +38,7 @@ Connect with me:
 - [Cisco](https://www.codewars.com/users/Cisco-the-wayword)![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
 - [Dexter](https://www.hackerrank.com/dexterhack800)![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 - [Cisco](https://leetcode.com/Cisco-the-wayword/)![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
-- [Boluwatife](https://www.linkedin.com/in/boluwatife-adegboyega-9397a81b3/)![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+- [Boluwatife](https://www.linkedin.com/in/boluwatife-adegboyega/)![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Cisco-the-wayword)](https://github.com/Cisco-the-wayword)
