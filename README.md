@@ -34,7 +34,6 @@ IDEs
 Connect with me:
 - [dexterhack800@gmail.com]![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - [the_wayword1](https://twitter.com/the_wayword1)![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-- [Cisco](https://acmeorg.enterprise.slack.com/user/@isco)![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 - [Cisco](https://www.codewars.com/users/Cisco-the-wayword)![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
 - [Dexter](https://www.hackerrank.com/dexterhack800)![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 - [Cisco](https://leetcode.com/Cisco-the-wayword/)![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
