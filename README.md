@@ -6,12 +6,14 @@ I am a fifth year Computer Engineering B.Sc candidate at Bells University of Tec
 
 My Reseach Interest:
 
-Front-end development.
-Back-end development.
-Full-stack development.
-Python programming.
-Machine learning.
-I am open to:
+- Front-end development.
+- Back-end development.
+- Full-stack development.
+- Python programming.
+- Machine learning.
+
+
+### I am open to:
 
 any collobration work,
 machine learning projects(development or research),
