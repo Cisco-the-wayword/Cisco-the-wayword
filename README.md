@@ -15,7 +15,7 @@ My Reseach Interest:
 
 ### I am open to:
 
-any collabration work,
+any collaboration work,
 machine learning projects(development or research),
 research internships and
 available to become reviewer or PC member for web development or software development positions.
